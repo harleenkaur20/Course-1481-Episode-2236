@@ -60,7 +60,6 @@
    display: flex;
    justify-content: space-between;
    flex-wrap: wrap;
-   background-color: red;
 }
 
 .box-container{
